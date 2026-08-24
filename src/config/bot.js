@@ -452,8 +452,8 @@ export const botConfig = {
     economy: true,
     leveling: false,
     moderation: true,
-    logging: true,
-    welcome: true,
+    logging: false,
+    welcome: false,
 
     // Community engagement systems.
     tickets: true,
