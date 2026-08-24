@@ -450,7 +450,7 @@ export const botConfig = {
   features: {
     // Core systems.
     economy: true,
-    leveling: true,
+    leveling: false,
     moderation: true,
     logging: true,
     welcome: true,
@@ -536,7 +536,6 @@ const COMMAND_CATEGORY_FEATURE_MAP = {
   fun: "fun",
   giveaway: "giveaways",
   jointocreate: "joinToCreate",
-  leveling: "leveling",
   logging: "logging",
   moderation: "moderation",
   music: "music",
